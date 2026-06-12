@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+
+cpu-model/
+tinyllama-coding-model/
+
+*.bin
+*.safetensors
+*.gguf
+
+.env
